@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trackerrr</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">Normal_Map</string>
+    <string name="hybrid_map">Hybrid_Map</string>
+    <string name="satellite_map">Satellite_Map</string>
+    <string name="terrain_map">Terrain_Map</string>
+    <string name="textview">TextView</string>
+    <string name="location">show location</string>
+    <string name="map">show in map</string>
+</resources>
