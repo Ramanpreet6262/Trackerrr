@@ -93,7 +93,7 @@ void gsm_init()
   boolean at_flag=1;
   while(at_flag)
   {
-    Serial.println("AT");
+    Serial.println("AT");                           // For connecting gsm module
     while(Serial.available()>0)
     {
       if(Serial.find("OK"))
